@@ -14,3 +14,9 @@
 |To-Do List 미션 - step1|[js-todo-list-step1](https://github.com/xrabcde/js-todo-list-step1/tree/xrabcde)|[PR of js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1/pull/32)|
 |글쓰기 미션 - LEVEL 1|[woowa-writing-3/LEVEL1](https://github.com/xrabcde/woowa-writing-3/blob/xrabcde/level1.md)|[PR of woowa-writing/LEVEL1](https://github.com/woowacourse/woowa-writing-3/pull/72)|
 |체스 미션 - step2|[java-chess](https://github.com/xrabcde/java-chess/tree/step2)|[PR of java-chess:step2](https://github.com/woowacourse/java-chess/pull/251)|
+
+## LEVEL 2
+|미션명|코드|PR 및 피드백|
+|------|---|---|
+|스프링 체스 미션 - step1|[jwp-chess](https://github.com/xrabcde/jwp-chess/tree/step1)|[PR of jwp-chess:step1](https://github.com/woowacourse/jwp-chess/pull/222)|
+|스프링 체스 미션 - step2|jwp-chess|PR of jwp-chess:step2|
