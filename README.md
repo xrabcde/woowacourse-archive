@@ -19,4 +19,4 @@
 |미션명|코드|PR 및 피드백|
 |------|---|---|
 |스프링 체스 미션 - step1|[jwp-chess](https://github.com/xrabcde/jwp-chess/tree/step1)|[PR of jwp-chess:step1](https://github.com/woowacourse/jwp-chess/pull/222)|
-|스프링 체스 미션 - step2|jwp-chess|PR of jwp-chess:step2|
+|스프링 체스 미션 - step2|[jwp-chess](https://github.com/xrabcde/jwp-chess/tree/step2)|[PR of jwp-chess:step2](https://github.com/woowacourse/jwp-chess/pull/286)|
