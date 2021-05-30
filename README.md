@@ -24,4 +24,4 @@
 |지하철 노선도 관리 - step2|[atdd-subway-map](https://github.com/xrabcde/atdd-subway-map/tree/step3)|[🚊](https://github.com/woowacourse/atdd-subway-map/pull/128)|
 |지하철 경로조회 - step1|[atdd-subway-path](https://github.com/xrabcde/atdd-subway-path/tree/step1)|[🚊](https://github.com/woowacourse/atdd-subway-path/pull/93)|
 |지하철 경로조회 - step2|[atdd-subway-path](https://github.com/xrabcde/atdd-subway-path/tree/step2)|[🚊](https://github.com/woowacourse/atdd-subway-path/pull/123)|
-|지하철 요금조회 - step1|[atdd-subway-fare](https://github.com/xrabcde/atdd-subway-fare/tree/step1)|[🚊]()|
+|지하철 요금조회|[atdd-subway-fare](https://github.com/xrabcde/atdd-subway-fare/tree/step1)|[🚊](https://github.com/woowacourse/atdd-subway-fare/pull/28)|
